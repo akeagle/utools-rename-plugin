@@ -1,0 +1,24 @@
+{
+  "name": "utoos-plugin",
+  "private": true,
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@element-plus/icons-vue": "^2.3.1",
+    "element-plus": "^2.9.0",
+    "lodash": "^4.17.21",
+    "sortablejs": "^1.15.6",
+    "vue": "^3.5.13"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^5.2.1",
+    "fs": "0.0.1-security",
+    "path": "^0.12.7",
+    "sass": "^1.82.0",
+    "vite": "^5.0.1"
+  }
+}
